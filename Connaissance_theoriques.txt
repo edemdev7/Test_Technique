@@ -1,0 +1,18 @@
+a/
+1- Les valeurs d’une liste peuvent être changées ou modifiées, contrairement aux valeurs d’un tuple qui sont immuables.
+
+2-L'opérateur is renvoie True si les deux objets comparés sont les mêmes en mémoire (identité), alors que == renvoie True si les deux objets sont les mêmes
+
+3- Un closure en Python est une fonction imbriquée qui permet d’accéder aux variables à partir de sa portée englobante, même après la fin de l’exécution de la 
+fonction externe. Ce concept est particulièrement utile pour créer des fonctions avec un état persistant.
+
+b/
+1-Odoo est une suite d'applications open source modulaire (ayant plusieurs modules) couvrant tous les besoins des entreprises surtout des PME  . Comme besoin on a  Comptabilité, Inventaire, 
+Point de Vente, Gestion des Ressources humaines , Gestion de Projet, etc. Elle est aussi utilisé pour créer des siteq web (e-learning, ecommerce...)
+
+2-Les modules sont des éléments constitutifs des applications Odoo. Un module peut ajouter ou modifier des fonctionnalités d'Odoo.Les applications ne sont pas différentes
+des modules ordinaires, mais d'un point de vue fonctionnel, elles fournissent une fonctionnalité centrale, autour de laquelle d'autres modules ajoutent des 
+fonctionnalités ou des options.
+
+3-Il faut d'abord configuré l'environnement de développement , créer le dossier du module, Ajouter le fichier __init__.py pour initialiser le module Python et le fichier 
+__manifest__.py qui contient les métadonnées du module après ça activé le module.
